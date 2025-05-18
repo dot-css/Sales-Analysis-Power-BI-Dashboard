@@ -33,10 +33,10 @@ These dashboards showcase advanced Power BI capabilities for sales and product d
 ## 📷 Preview
 
 ### Sales Dashboard
-![Sales Dashboard](./b2ae8a1a-51fe-4da1-8206-23f950a5b79d.png)
+![Sales Dashboard](./Screenshot 2025-05-17 190806.png)
 
 ### Product Dashboard
-![Product Dashboard](./2be9209c-862e-4184-bf8c-1de370f14174.png)
+![Product Dashboard](./Screenshot 2025-05-17 190834.png)
 
 ---
 
